@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### Run the app
 
-cd app
-python app.py
+- cd app
+- python app.py
 
 ## Note: The dataset files `Fake.csv` and `True.csv` are large (>50MB). If you experience issues downloading them, install Git LFS: https://git-lfs.github.com/
